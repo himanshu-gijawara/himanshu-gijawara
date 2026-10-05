@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/eternaltech-himanshu">
-    <img src="https://komarev.com/ghpvc/?username=eternaltech-himanshu&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile views" />
+  <a href="https://github.com/himanshu-gijawara">
+    <img src="https://komarev.com/ghpvc/?username=himanshu-gijawara&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile views" />
   </a>
   <img src="https://img.shields.io/badge/Focus-🎯%20Building-informational?style=flat&color=2E9EF7" />
   <img src="https://img.shields.io/badge/Location-Ajmer%2C%20Rajasthan-informational?style=flat&color=2E9EF7" />
@@ -63,12 +63,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eternaltech-himanshu&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=eternaltech-himanshu&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=himanshu-gijawara&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-gijawara&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eternaltech-himanshu&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-gijawara&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
