@@ -67,9 +67,9 @@
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=himanshu-gijawara&theme=tokyonight&hide_border=true" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu-gijawara&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+</p> -->
 
 ---
 
